@@ -1,4 +1,4 @@
-# Optimization Problems and Solutions
+# Optimization Problems and Solutions ![license](https://img.shields.io/github/license/Pegah-Ardehkhani/Optimization-Problems-and-Solutions.svg) ![releases](https://img.shields.io/github/release/Pegah-Ardehkhani/Optimization-Problems-and-Solutions.svg)
 
 > **`Note`**: This repository is still developing.
 
