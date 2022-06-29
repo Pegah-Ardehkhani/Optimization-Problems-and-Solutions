@@ -1,4 +1,4 @@
-# Financial Planning and Control
+# Financial Planning and Control 💰 💸 <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/1.%20Financial%20Planning%20and%20Control/Financial%20Planning%20and%20Control.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](http://nbviewer.org/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/1.%20Financial%20Planning%20and%20Control/Financial%20Planning%20and%20Control.ipynb)
 
 Suppose we wish to provide for a child’s college education $Y$ years from now. 
 We currently have $b$ to invest in any of $I$ investments. 
