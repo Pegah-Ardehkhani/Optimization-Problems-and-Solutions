@@ -1,4 +1,4 @@
-# Simple Radiation Therapy ☢️ <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/06.%20Simple%20Radiation%20Therapy/Simple%20Radiation%20Therapy.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/06.%20Simple%20Radiation%20Therapy/Simple%20Radiation%20Therapy.ipynb)
+# Controlling Air Pollution 😷 <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/09.%20Controlling%20Air%20Pollution/Controlling%20Air%20Pollution.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/09.%20Controlling%20Air%20Pollution/Controlling%20Air%20Pollution.ipynb)
 
 **Problem Statement:**
 
