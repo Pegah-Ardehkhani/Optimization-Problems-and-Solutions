@@ -1,7 +1,5 @@
 # Simple Radiation Therapy 🗺 <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/06.%20Simple%20Radiation%20Therapy/Simple%20Radiation%20Therapy.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/06.%20Simple%20Radiation%20Therapy/Simple%20Radiation%20Therapy.ipynb)
 
-https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/06.%20Simple%20Radiation%20Therapy/Simple%20Radiation%20Therapy.ipynb
-
 **Problem Statement:**
 
 MARY has just been diagnosed as having a cancer at a fairly advanced stage. Specifically, she has a large malignant tumor in the bladder area (a "whole bladder lesion").
