@@ -12,8 +12,8 @@ The three main types of pollutants in this airshed are particulate matter, sulfu
   <img width="700" height="300" src="https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/09.%20Controlling%20Air%20Pollution/Table%203.12.PNG">
 </p>
 
-The steelworks has two primary sources of pollution, namely, the blast furnaces
-for making pig iron and the open-hearth furnaces for changing iron into steel. In both cases the engineers have decided that the most effective types of abatement methods are 
+The steelworks have two primary sources of pollution, namely, the blast furnaces
+for making pig iron and the open-hearth furnaces for changing iron into steel. In both cases, the engineers have decided that the most effective types of abatement methods are 
 (1) increasing the height of the smokestacks, 1 (2) using filter devices (including gas traps) in the smokestacks, and (3) including cleaner, high-grade materials among the fuels for the furnaces. Each of these methods has a technological limit on how heavily it can be used (e.g., a maximum feasible increase in the height of the smokestacks), but there also is considerable flexibility for using the method at a fraction of its technological limit.
 
 Table 3.13 shows how much emission (in millions of pounds per year) can be
