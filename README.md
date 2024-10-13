@@ -26,3 +26,4 @@
 [08. Regional Planning](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/tree/main/08.%20Regional%20Planning) 🚜 <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/08.%20Regional%20Planning/Regional%20Planning.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 [09. Controlling Air Pollution](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/tree/main/09.%20Controlling%20Air%20Pollution) 😷 <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/9.%20Controlling%20Air%20Pollution/Controlling%20Air%20Pollution.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
