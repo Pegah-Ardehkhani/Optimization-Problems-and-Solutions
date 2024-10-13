@@ -1,4 +1,4 @@
-# Simple Radiation Therapy ☢️ <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/06.%20Simple%20Radiation%20Therapy/Simple%20Radiation%20Therapy.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/06.%20Simple%20Radiation%20Therapy/Simple%20Radiation%20Therapy.ipynb)
+# Regional Planning 🚜 <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/08.%20Regional%20Planning/Regional%20Planning.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/08.%20Regional%20Planning/Regional%20Planning.ipynb)
 
 **Problem Statement:**
 
