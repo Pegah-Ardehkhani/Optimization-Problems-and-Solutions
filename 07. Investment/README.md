@@ -1,3 +1,5 @@
+# Investment 💰 <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/07.%20Investment/Investment.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/07.%20Investment/Investment.ipynb)
+
 **Problem Statement:**
 
 Jack wishes to define the best investments that he should make with his money. he has a total of $100,000$ USD and the following options for investment:
