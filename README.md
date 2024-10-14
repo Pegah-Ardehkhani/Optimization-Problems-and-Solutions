@@ -37,3 +37,4 @@
 
 [14. Airline Crews](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/tree/main/14.%20Airline%20Crews) 👩🏻‍✈️ <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/14.%20Airline%20Crews/Airline%20Crews.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+[15. Household Chores](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/tree/main/15.%20Household%20Chores) 🏠 <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/15.%20Household%20Chores/Household%20Chores.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
