@@ -1,4 +1,4 @@
-
+# Household Chores 🏠 <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/15.%20Household%20Chores/Household%20Chores.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/15.%20Household%20Chores/Household%20Chores.ipynb)
 
 **Problem Statement:**
 
