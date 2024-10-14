@@ -1,5 +1,7 @@
 # Product Diversification 📦 <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/12.%20Product%20Diversification/Product%20Diversification.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/12.%20Product%20Diversification/Product%20Diversification.ipynb)
 
+**Problem Statement:**
+
 The research and development division of a manufacturing company has developed
 three possible new products. However, to avoid undue diversification of the company's product line, management has imposed the following restriction:
 
