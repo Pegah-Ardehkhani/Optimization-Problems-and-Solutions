@@ -5,5 +5,5 @@ A corporation is developing its marketing plans for next year's new products. Fo
 Table 12.3 shows the estimated impact of allocating zero, one, two, or three spots to each product. This impact is measured in terms of the profit (in units of millions of dollars) from the additional sales that would result from the spots, considering also the cost of producing the commercial and purchasing the spots. The objective is to allocate five spots to the products so as to maximize the total profit.
 
 <p align="center">
-  <img width="700" height="300" src="https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/13.%20TV%20Spots/Table%2012.3.PNG">
+  <img width="500" height="300" src="https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/13.%20TV%20Spots/Table%2012.3.PNG">
 </p>
