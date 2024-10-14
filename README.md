@@ -33,7 +33,7 @@
 
 [12. Product Diversification](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/tree/main/12.%20Product%20Diversification) 📦 <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/12.%20Product%20Diversification/Product%20Diversification.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-[13. Product Diversification](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/tree/main/13.%20TV%20Spots) 📺 <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/13.%20TV%20Spots/TV%20Spots.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+[13. TV Spots](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/tree/main/13.%20TV%20Spots) 📺 <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/13.%20TV%20Spots/TV%20Spots.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 [14. Airline Crews](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/tree/main/14.%20Airline%20Crews) 👩🏻‍✈️ <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/14.%20Airline%20Crews/Airline%20Crews.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
