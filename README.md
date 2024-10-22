@@ -39,4 +39,6 @@
 
 [15. Household Chores](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/tree/main/15.%20Household%20Chores) 🏠 <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/15.%20Household%20Chores/Household%20Chores.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-[16. Capital Investment Selection](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/tree/main/16.%20Capital%20Investment%20Selection) 💸 <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/15.%20Household%20Chores/Household%20Chores.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+[16. Capital Investment Selection](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/tree/main/16.%20Capital%20Investment%20Selection) 💸 <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/16.%20Capital%20Investment%20Selection/Capital%20Investment%20Selection.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/16.%20Capital%20Investment%20Selection/Capital%20Investment%20Selection.ipynb
