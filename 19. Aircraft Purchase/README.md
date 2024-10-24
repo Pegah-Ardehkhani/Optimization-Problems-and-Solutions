@@ -1,4 +1,4 @@
-# Aircraft Purchase ✈️ 
+# Aircraft Purchase ✈️ <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/19.%20Aircraft%20Purchase/Aircraft%20Purchase.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/19.%20Aircraft%20Purchase/Aircraft%20Purchase.ipynb)
 
 **Problem Statement:**
 
