@@ -42,3 +42,7 @@
 [16. Capital Investment Selection](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/tree/main/16.%20Capital%20Investment%20Selection) 💸 <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/16.%20Capital%20Investment%20Selection/Capital%20Investment%20Selection.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 [17. Optimal Product Selection](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/tree/main/17.%20Optimal%20Product%20Selection) 🏷️ <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/17.%20Optimal%20Product%20Selection/Optimal%20Product%20Selection.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+[18. Toy Factory](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/tree/main/18.%20Toy%20Factory) 🏷️ <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/18.%20Toy%20Factory/Toy%20Factory.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
