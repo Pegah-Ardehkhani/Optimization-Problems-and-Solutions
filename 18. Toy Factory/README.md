@@ -1,4 +1,4 @@
-# Toy Factory 🏷️ <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/17.%20Optimal%20Product%20Selection/Optimal%20Product%20Selection.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/17.%20Optimal%20Product%20Selection/Optimal%20Product%20Selection.ipynb)
+# Toy Factory 🏷️ <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/18.%20Toy%20Factory/Toy%20Factory.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Optimization-Problems-and-Solutions/blob/main/18.%20Toy%20Factory/Toy%20Factory.ipynb)
 
 **Problem Statement:**
 
