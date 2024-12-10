@@ -1,5 +1,7 @@
 # Optimization Problems and Solutions ![license](https://img.shields.io/github/license/Pegah-Ardehkhani/Optimization-Problems-and-Solutions.svg) ![releases](https://img.shields.io/github/release/Pegah-Ardehkhani/Optimization-Problems-and-Solutions.svg)
 
+> **`Note`**: Problems 19, 21, and 22 are solved with Python, CPLEX, and R, while the others use Python only.
+
 > **`Note`**: This repository is still developing.
 
 <p align="center">
